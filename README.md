@@ -15,7 +15,7 @@ Explore and categorize content based on specific criteria and keywords.
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
 
-Dataset Link: ![Netflix Data](https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysis)
+Dataset Link: [Netflix Data] (https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysis)
 Schema
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
